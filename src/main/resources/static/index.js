@@ -1,1 +1,2 @@
-alert("oh mahh GWADDDDD")
+// alert("oh mahh GWADDDDD")
+console.log("Hellow from JS")
